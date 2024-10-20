@@ -50,9 +50,8 @@ Shut the fuck up
 .ғᴜɴ
 []
 ()
-IPs and Websites
 ([\d]{1,3}[., ]{1,}){3,}([\d]{1,3})
-([ &.,]|^)([\w]{5,})([., ]){1,}(.com|xyz|https://|.me|gbnodes.host|.gg|.xyz|.org|.net|.tech|.host|.tech|.biz|.in|.IN|.fun|.FUN|.cc|.info|.fps|aternos.me|server.pro|serv.nu)([ &.,]|$)# Swearing (Spanish)
+([ &.,]|^)([\w]{5,})([., ]){1,}(.com|xyz|https://|.me|gbnodes.host|.gg|.xyz|.org|.net|.tech|.host|.tech|.biz|.in|.IN|.fun|.FUN|.cc|.info|.fps|aternos.me|server.pro|serv.nu)([ &.,]|$)
 aternos
 aternos.me
 aternos
